@@ -33,5 +33,9 @@ This code implements the ID3 (Iterative Dichotomiser 3) algorithm for building a
 * Plots precision, recall, and F1-score as a function of the number of training files used.
 * Displays the results in tabular form. <br>
 
-Overall, this code performs sentiment analysis on movie reviews using the ID3 decision tree algorithm and evaluates its performance using various metrics and visualizations.
+Overall, this code performs sentiment analysis on movie reviews using the ID3 decision tree algorithm and evaluates its performance using various metrics and visualizations.<br>
 
+
+
+
+* More documentation and visuals **[here](Report.pdf)**
