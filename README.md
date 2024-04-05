@@ -4,7 +4,7 @@
 Assigmnemt for course: "**Artificial Intelligence**
 <br>*Department of Computer Science, AUEB*
 
-<br>
+
 ### Bernoulli Naive Bayes
 This code implements a Naive Bayes classifier for sentiment analysis using the IMDB movie review dataset. Here's what it does:
 
