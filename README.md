@@ -17,5 +17,6 @@ This code implements a Naive Bayes classifier for sentiment analysis using the I
 * Prints the classification report, which includes precision, recall, and F1-score for each class.
 * Plots the accuracy, precision, recall, and F1-score as a function of the number of training files used.
 * Displays the results in tabular form. <br>
+
 Overall, this code performs sentiment analysis on movie reviews using a Naive Bayes classifier and evaluates its performance using various metrics and visualizations.
 
